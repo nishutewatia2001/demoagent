@@ -1,0 +1,4 @@
+version: 1
+databases:
+  - path: ../db/zttp.sqlite
+    alias: zttp
