@@ -1,0 +1,6 @@
+version: 1
+mounts:
+  - path: ../notes
+    alias: notes
+  - path: ../plans
+    alias: plans
